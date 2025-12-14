@@ -1,5 +1,5 @@
 ## Hi there 👋
-**AgoraSim**, inspired by the Greek Agora, the public space for democratic discussion, and Simulation—is an open-source platform with two core goals:
+**AgoraSim**, inspired by the Greek Agora, the public space for democratic discussion, and Simulation, is an open-source platform with two core goals:
 - 🤖 Develop simulation tools
 - 🇵🇹 Generate concrete, evidence-based solutions for the Portuguese context
 
